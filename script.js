@@ -3,6 +3,7 @@ let arrey = [
     { songName: "Jale 2", url: "./songs/Jale 2.mp3", img: "./images/jale.jpg" },
     { songName: "Pehle bhi Main", url: "./songs/Pehle Bhi Main.mp3", img: "./images/animal.jpg" },
     { songName: "Ram siya ram", url: "./songs/Ram Siya Ram.mp3", img: "./images/ram.jpg" },
+    { songName: "Popular by weekend", url: "./songs/Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series).mp3", img: "./images/Popular.png" },
 ]
 
 let allSongs =  document.querySelector('#all-songs');
